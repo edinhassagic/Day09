@@ -2,7 +2,7 @@ function switchCase(letter) {
   var animals = "";
     switch (letter) {
     case "a":
-      animals = "antilope";
+      animals = "antelope";
       break;
     case "b":
       animals = "bird";
@@ -11,7 +11,7 @@ function switchCase(letter) {
       animals = "cat";
       break;
     default:
-     animals = "stuuf";
+     animals = "stuff";
       break;
 
       
